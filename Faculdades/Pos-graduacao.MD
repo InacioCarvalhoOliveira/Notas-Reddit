@@ -127,7 +127,7 @@ https://postech.fiap.com.br/curso/arquitetura-sistemas-net/
 
         . 18x R$ 545,00
         . 12x R$ 770,00
-        . R$ 8.379,00 - À VISTA
+        .     R$ 8.379,00 - À VISTA
 </details>
 
  ## OFERTADO FIAP by ALURA
