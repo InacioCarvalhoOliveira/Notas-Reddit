@@ -115,9 +115,9 @@ https://postech.fiap.com.br/curso/arquitetura-sistemas-net/
 
     Custo sem convênio de empresa ou descontos
 
-        . 18x de R$ 685,00
+        . 18x R$ 685,00
         . 12x R$ 965,00
-        . R$ 10.500,00 - À VISTA
+        .     R$ 10.500,00 - À VISTA
 </details>
 <p>
 <details>
