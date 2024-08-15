@@ -111,7 +111,7 @@ https://postech.fiap.com.br/curso/arquitetura-sistemas-net/
     💻 Privacidade de Dados e LGPD
 
 <details>
-    <summary><b>Valor padão</b></summary>    
+    <summary><b>Valor padrão</b></summary>    
 
     Custo sem convênio de empresa ou descontos
 
