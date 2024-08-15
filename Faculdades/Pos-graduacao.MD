@@ -1,5 +1,5 @@
 ### PÓS GRADUAÇÃO
-**FACULDADE INFTEC(Igc de 3 em 2022,CI de 5 2024 em,CIead de 5 em 2019)**  Engenharia de Software com .NET - **11 MESES**<BR>
+**FACULDADE INFNET(Igc de 3 em 2022,CI de 5 2024 em,CIead de 5 em 2019)**  Engenharia de Software com .NET - **11 MESES**<BR>
 https://posgraduacao.infnet.edu.br/ead/pos-em-engenharia-de-software-curso-net/
 ### OFERTA
     💻 Domain-Driven Design
