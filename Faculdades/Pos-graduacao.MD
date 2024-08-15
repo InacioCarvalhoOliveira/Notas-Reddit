@@ -280,9 +280,9 @@ https://postech.fiap.com.br/curso/arquitetura-sistemas-net/
 ## EMBATE
 
 comparando as duas instituições, Considerando os pontos, de fato na FIAP há mais "conteúdo",
-sendo eles. CONTUDO, se formos parar pra analisar, são pontos os quais seriam possível estudar 
-por fora visto que realmente são complementos da Arquitetura de Software.
-Por outro lado a INFTEC Fornece descontos para certificações Microsoft
+sendo eles stacks voltadas em grande parte ao devops e posteriormente Multicloud. CONTUDO, se formos parar pra analisar, são pontos os quais seriam possíveis estudar 
+por fora,visto,que realmente são complementos da Arquitetura de Software.
+Por outro lado a INFNET Fornece descontos para certificações Microsoft
 
     💻 Github Actions
     💻 Azure DevOps
