@@ -111,13 +111,13 @@ https://postech.fiap.com.br/curso/arquitetura-sistemas-net/
     💻 Privacidade de Dados e LGPD
 
 <details>
-    <summary><b>Valor padão</b></summary>    
+    <summary><b>Valor padrão</b></summary>    
 
     Custo sem convênio de empresa ou descontos
 
-        . 18x de R$ 685,00
+        . 18x R$ 685,00
         . 12x R$ 965,00
-        . R$ 10.500,00 - À VISTA
+        .     R$ 10.500,00 - À VISTA
 </details>
 <p>
 <details>
@@ -127,7 +127,7 @@ https://postech.fiap.com.br/curso/arquitetura-sistemas-net/
 
         . 18x R$ 545,00
         . 12x R$ 770,00
-        . R$ 8.379,00 - À VISTA
+        .     R$ 8.379,00 - À VISTA
 </details>
 
  ## OFERTADO FIAP by ALURA
@@ -280,9 +280,9 @@ https://postech.fiap.com.br/curso/arquitetura-sistemas-net/
 ## EMBATE
 
 comparando as duas instituições, Considerando os pontos, de fato na FIAP há mais "conteúdo",
-sendo eles. CONTUDO, se formos parar pra analisar, são pontos os quais seriam possível estudar 
-por fora visto que realmente são complementos da Arquitetura de Software.
-Por outro lado a INFTEC Fornece descontos para certificações Microsoft
+sendo eles stacks voltadas em grande parte ao devops e posteriormente Multicloud. CONTUDO, se formos parar pra analisar, são pontos os quais seriam possíveis estudar 
+por fora,visto,que realmente são complementos da Arquitetura de Software.
+Por outro lado a INFNET Fornece descontos para certificações Microsoft
 
     💻 Github Actions
     💻 Azure DevOps
