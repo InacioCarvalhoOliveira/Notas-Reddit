@@ -293,3 +293,10 @@ Por outro lado a INFTEC Fornece descontos para certificações Microsoft
     💻 Kubernetes
     💻 Orquestração de containers com Kubernetes
     💻 Privacidade de Dados e LGPD
+
+
+Pós graduação INFNET vs FIAP by Alura - Arquitetura de Sistemas .NET
+
+Boom dia!
+Gostaria de saber a opnião de vocês a respeito dessas 2 grandes instituições, pretendo iniciar essa pós mas realmente tem a questão financeira em jogo, sendo assim, qual optar? sou dev JR em c#, aspnetcore e com faculdade de ads finalizada e tô querendo dar essa alavancada
+montei um readme bem bacana sobre, poderiam dar uma olhada : https://github.com/InacioCarvalhoOliveira/Notas-Reddit/blob/main/Faculdades/Pos-graduacao.MD
